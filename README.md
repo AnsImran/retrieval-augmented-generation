@@ -20,7 +20,7 @@
 - ### Similarity Search
 - ### Failure Modes
 
-## 4. [Retreiving Relevant Documents using RAG (using LangChain)](https://github.com/AnsImran/retrieval-augmented-generation/blob/master/4%20Retrieval.ipynb)
+## 4. [Retrieving Relevant Documents using RAG (using LangChain)](https://github.com/AnsImran/retrieval-augmented-generation/blob/master/4%20Retrieval.ipynb)
 - ### Similarity Search
 - ### Addressing Diversity: Maximum marginal relevance
 - ### Addressing Specificity: working with metadata
